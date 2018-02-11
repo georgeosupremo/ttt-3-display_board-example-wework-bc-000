@@ -1,2 +1,1 @@
-def display_board
-  puts
+def display_board("   ", "   ", "   ")
